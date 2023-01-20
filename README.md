@@ -1,3 +1,5 @@
+# WoTLK fork of original by Apoullos
+
 # CEPGP Distribution From Bags
 
 CEPGP DistributionFromBags is a plugin of CEPGP addon.\
