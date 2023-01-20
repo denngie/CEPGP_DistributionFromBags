@@ -13,7 +13,7 @@ When the "bid" part is finished, the Loot Master need to give items manually.
 4. Manually trade with the winner (put the equipment in the first slot of the trading window)
 5. Choose the reason and record the GP points
 
-Compatible with CEPGP version 1.12.25
+Compatible with CEPGP version 1.15.7-wrath
 
 ##
 
@@ -30,4 +30,4 @@ CEPGP DistributionFromBags 是 CEPGP addon 的 plugin。\
 4. 手動與獲勝者交易 (將裝備放到交易視窗的第一格)
 5. 選擇給裝的理由，紀錄GP點數
 
-相容於 CEPGP version 1.12.25
+相容於 CEPGP version 1.15.7-wrath
